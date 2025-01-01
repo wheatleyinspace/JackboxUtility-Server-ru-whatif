@@ -1,37 +1,32 @@
 {
-    "id":"jackbox-en",
-    "name":"Jackbox Utility",
-    "description":"The community server for Jackbox Games in English!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "id":"jackbox-ru-other",
+    "name":"Jackbox на русском",
+    "description":"Сервер Jackbox Utility на русском..",
+    "image":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/assets"
         }
     ],
-    "controller":"jackbox.tv",
-    "languages":["en"],
+    "controller":"jackbox.fun",
+    "languages":["ru"],
     "links": [
         {
             "icon":"globe",
-            "url":"https://www.jackboxgames.com/",
-            "text":"Website"
+            "url":"https://www.jackboxgames.ru/",
+            "text":"Веб-сайт"
         },
         {
             "icon":"discord",
-            "url":"https://discord.com/invite/jackboxgames",
+            "url":"https://discord.com/invite/ccqZcRZ",
             "text":"Discord"
         },
         {
-            "icon":"twitter",
-            "url":"https://twitter.com/jackboxgames",
-            "text":"Twitter"
-        },
-        {
             "icon":"youtube",
-            "url":"https://www.youtube.com/@Jackboxgames",
+            "url":"https://www.youtube.com/@wifhat",
             "text":"YouTube"
         }
      ]
