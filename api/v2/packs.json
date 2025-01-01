@@ -2,31 +2,31 @@
     "tags":[
        {
             "id":"talking",
-            "name":"Discussion",
+            "name":"Обсуждение",
             "icon":"megaphone",
             "description":"Игры, которые требуют или выигрывают от громкого обсуждения между игроками."
        },
        {
        	    "id":"drawing",
-            "name":"Drawing",
+            "name":"Рисование",
             "icon":"edit",
             "description":"В этих играх надо рисовать."
        },
        {
        	    "id":"deduction",
-            "name":"Strategy",
+            "name":"Стратегии",
             "icon":"comment_urgent",
             "description":"Вам придется хорошо подумать о своих действиях в этих играх."
        },
        {
        	    "id":"knowledge",
-            "name":"Trivia",
+            "name":"Викторины",
             "icon":"unknown",
             "description":"Это викторины."
        },
        {
             "id":"writing",
-            "name":"Writing",
+            "name":"Написание",
             "icon":"text_align_middle",
             "description":"Вам придется писать в этих играх."
         }
@@ -93,7 +93,7 @@
                     "moderation_description":"Эта игра не требует модерации.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
+                    "translation":"RUSSIAN",
                     "tagline":"Дерзкая викторина для вашей вечеринки",
                     "small_description":"Дерзкая викторина для вашей вечеринки",
                     "description":"Остросюжетное шоу с хитроумной викториной, с которого всё началось! Сотни новых извращённых вопросов и всеми любимый ведущий — Куки Мастерсон!",
@@ -124,7 +124,7 @@
             },
             {
                 "id":"drawful",
-                "name":"Drawful",
+                "name":"Рисовач",
                 "internal_name":"Drawful",
                 "background":"game_backgrounds/Drawful.webp",
                 "path":"games/Drawful",
@@ -141,13 +141,13 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text and drawings.",
+                    "moderation_description":"Игроки могут отправлять текст и рисунки.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Draw badly with style!",
-                    "small_description":"Draw badly with style!",
-                    "description":"The drawing game that takes all other drawing games and draws little mustaches on them. Can’t draw? No problem! It’s funnier that way!",
+                    "translation":"RUSSIAN",
+                    "tagline":"ни единой партии без \"что за хрень ты нарисовал?\"",
+                    "small_description":"ни единой партии без \"что за хрень ты нарисовал?\"",
+                    "description":"Игра про рисование, которая берёт все остальные игры про рисование и дорисовывает им усы!",
                     "images":[
                         "game_images/Drawful/drawful.mp4",
                         "game_images/Drawful/drawful_1.webp",
@@ -174,7 +174,7 @@
             },
             {
                 "id":"wordspud",
-                "name":"Word Spud",
+                "name":"Словоблуд",
                 "internal_name":"WordSpud",
                 "background":"game_backgrounds/WordSpud.webp",
                 "path":"games/WordSpud",
@@ -191,13 +191,13 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"NO_MODERATION",
-                    "moderation_description":"Players can submit text.",
+                    "moderation_description":"Игроки могут отправлять текст.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"PASS IT AROUND",
-                    "small_description":"PASS IT AROUND",
-                    "description":"Keep the words rolling all night! Just finish the word coming toward you, like “Mail___.” Mail enhancement, you say? You nailed it.",
+                    "translation":"RUSSIAN",
+                    "tagline":"ПЕРЕДАЙ ДАЛЬШЕ",
+                    "small_description":"ПЕРЕДАЙ ДАЛЬШЕ",
+                    "description":"Играем в слова всю ночь до утра! Дополни слово, которое движется к тебе, чтобы оно понравилось другим игрокам.",
                     "images":[
                         "game_images/WordSpud/wordspud.mp4",
                         "game_images/WordSpud/wordspud_1.webp",
@@ -223,7 +223,7 @@
             },
             {
                 "id":"lieswatter",
-                "name":"Lie Swatter",
+                "name":"Мухи-врухи",
                 "internal_name":"LieSwatterParty",
                 "background":"game_backgrounds/LieSwatter.webp",
                 "path":"games/LieSwatter",
@@ -240,13 +240,13 @@
                     "audience":false,
                     "stream_friendly":"PLAYABLE",
                     "moderation":"FULL_MODERATION",
-                    "moderation_description":"This game doesn't require moderation.",
+                    "moderation_description":"Эта игра не требует модерации.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"Is it true or false?",
-                    "small_description":"Is it true or false?",
-                    "description":"Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?",
+                    "translation":"RUSSIAN",
+                    "tagline":"Правду не прибьёшь!",
+                    "small_description":"Правду не прибьёшь!",
+                    "description":"Ссут ли лобстеры из головы? Назвала ли Япония лапшу быстрого приготовления изобретением века? Несём ли мы брехню?",
                     "images":[
                         "game_images/LieSwatter/lieswatter.mp4",
                         "game_images/LieSwatter/lieswatter_1.webp",
@@ -272,7 +272,7 @@
             },
             {
                 "id":"fibbagexl",
-                "name":"Fibbage XL",
+                "name":"Бредовуха XL",
                 "internal_name":"FibbageXL",
                 "background":"game_backgrounds/FibbageXL.webp",
                 "path":"games/FibbageXL",
@@ -292,9 +292,9 @@
                     "moderation_description":"Players can submit text.",
                     "subtitles":false,
                     "type":"VERSUS",
-                    "translation":"ENGLISH",
-                    "tagline":"The hilarious bluffing party game",
-                    "small_description":"The hilarious bluffing party game",
+                    "translation":"RUSSIAN",
+                    "tagline":"Веселая игра для врунов",
+                    "small_description":"Веселая игра для врунов",
                     "description":"Fool your friends with your lies, avoid theirs, and find the (usually outrageous) truth. “The mayor of Rabbit Hash, Kentucky is a ____.” Go!",
                     "images":[
                         "game_images/FibbageXL/fibbagexl.mp4",
