@@ -781,7 +781,7 @@
         },
         {
           "id": "fakinit",
-          "name": "Обмани меня!",
+          "name": "Обмани Меня!",
           "internal_name": "FakinIt",
           "background": "game_backgrounds/FakinIt.webp",
           "path": "games/FakinIt",
@@ -1022,7 +1022,7 @@
         },
         {
           "id": "monsterseekingmonster",
-          "name": "Монстр ищет монстра",
+          "name": "Монстр ищет Монстра",
           "internal_name": "MonsterMingle",
           "background": "game_backgrounds/MonsterSeekingMonster.webp",
           "path": "games/MonsterMingle",
@@ -1121,7 +1121,7 @@
         },
         {
           "id": "civicdoodle",
-          "name": "Гражданский холст",
+          "name": "Гражданский Холст",
           "internal_name": "Overdrawn",
           "background": "game_backgrounds/CivicDoodle.webp",
           "path": "games/CivicDoodle",
@@ -1260,7 +1260,7 @@
         },
         {
           "id": "splittheroom",
-          "name": "Раздели комнату",
+          "name": "Раздели Комнату",
           "internal_name": "SplitTheRoom",
           "background": "game_backgrounds/SplitTheRoom.webp",
           "path": "games/SplitTheRoom",
@@ -1310,7 +1310,7 @@
         },
         {
           "id": "mad_verse_city",
-          "name": "Город злых рифм",
+          "name": "Город Злых Рифм",
           "internal_name": "RapBattle",
           "background": "game_backgrounds/MadVerseCity.webp",
           "path": "games/RapBattle",
@@ -1406,7 +1406,7 @@
         },
         {
           "id": "patentlystupid",
-          "name": "Творим патенты",
+          "name": "Творим Патенты",
           "internal_name": "PatentlyStupid",
           "background": "game_backgrounds/PatentlyStupid.webp",
           "path": "games/PatentlyStupid",
@@ -1549,7 +1549,7 @@
         },
         {
           "id": "role_models",
-          "name": "Анализ роли",
+          "name": "Анализ Роли",
           "internal_name": "RoleModels",
           "background": "game_backgrounds/RoleModels.webp",
           "path": "games/RoleModels",
@@ -1599,7 +1599,7 @@
         },
         {
           "id": "jokeboat",
-          "name": "Корабль смеха",
+          "name": "Корабль Смеха",
           "internal_name": "Jokeboat",
           "background": "game_backgrounds/JokeBoat.webp",
           "path": "games/JokeBoat",
@@ -1699,7 +1699,7 @@
         },
         {
           "id": "pushthebutton",
-          "name": "Жми на кнопку",
+          "name": "Жми на Кнопку",
           "internal_name": "PushTheButton",
           "background": "game_backgrounds/PushTheButton.webp",
           "path": "games/PushTheButton",
