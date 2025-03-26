@@ -1,30 +1,6 @@
 {
   "tags": [
     {
-      "id": "talking",
-      "name": "Обсуждение",
-      "icon": "megaphone",
-      "description": "Игры, которые требуют или выигрывают от громкого обсуждения между игроками."
-    },
-    {
-      "id": "drawing",
-      "name": "Рисование",
-      "icon": "edit",
-      "description": "В этих играх надо рисовать."
-    },
-    {
-      "id": "deduction",
-      "name": "Стратегии",
-      "icon": "comment_urgent",
-      "description": "Вам придется хорошо подумать о своих действиях в этих играх."
-    },
-    {
-      "id": "knowledge",
-      "name": "Викторины",
-      "icon": "unknown",
-      "description": "Это викторины."
-    },
-    {
       "id": "writing",
       "name": "Написание",
       "icon": "text_align_middle",
