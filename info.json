@@ -2,13 +2,13 @@
     "id":"jackbox-ru-other",
     "name":"Jackbox на русском",
     "description":"Сервер Jackbox Utility на русском.",
-    "image":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/assets/news_images/logo.png",
+    "image":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-whatif/main/assets/news_images/logo.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-other/main/assets"
+            "api":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-whatif/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-whatif/main/assets"
         }
     ],
     "controller":"jackbox.fun",
