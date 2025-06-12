@@ -81,7 +81,7 @@
   },
   {
     "id": 2,
-    "title": "Word Spud",
+    "title": "Словоблуд",
     "products": [
       0,
       16,
@@ -90,7 +90,7 @@
       22
     ],
     "description": {
-      "en": "If you’re reading about Word Spud, congratulations. You’ve officially become a hardcore Jackbox Games fan. Word Spud is the racy-as-you-want-to-be fill-in-the-blank word game."
+      "en": "Играем в слова всю ночь до утра! Дополни слово, которое движется к тебе, чтобы оно понравилось другим игрокам."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -123,7 +123,7 @@
   },
   {
     "id": 3,
-    "title": "Lie Swatter",
+    "title": "Мухи-Врухи",
     "products": [
       0,
       16,
@@ -132,7 +132,7 @@
       22
     ],
     "description": {
-      "en": "Lie Swatter is the perfect game to play if you need a good random fact to have in your back pocket for cocktail parties, or you just hate bugs."
+      "en": "Ссут ли лобстеры из головы? Назвала ли Япония лапшу быстрого приготовления изобретением века? Несём ли мы брехню?"
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -165,7 +165,7 @@
   },
   {
     "id": 4,
-    "title": "Fibbage XL",
+    "title": "Бредовуха XL",
     "products": [
       0,
       14,
@@ -175,7 +175,7 @@
       22
     ],
     "description": {
-      "en": "In Fibbage XL, players are presented with an obscure trivia fact that’s missing one key detail. The objective is to fill in the blank so that it fools others into thinking it’s the truth."
+      "en": "Обмани своих друзей, не попадись на чужую ложь и отгадай правду (как правило, удивительную). Вперёд!"
     },
     "duration": 15,
     "minPlayerCount": 2,
