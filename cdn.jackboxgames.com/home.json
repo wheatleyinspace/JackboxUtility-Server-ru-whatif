@@ -1,0 +1,134 @@
+{
+  "i18n": {
+    "en": {
+      "GAMES": {
+        "DRAWING": "Drawing Games",
+        "ONE_PLAYER": "One Player Games",
+        "STREAMING": "Good For Streaming"
+      }
+    },
+    "de": {
+      "GAMES": {
+        "DRAWING": "Zeichenspiele",
+        "ONE_PLAYER": "Spiele für 1 Spieler",
+        "STREAMING": "Gut für Streaming"
+      }
+    },
+    "es": {
+      "GAMES": {
+        "DRAWING": "Juegos de dibujo",
+        "ONE_PLAYER": "Juegos para un jugador",
+        "STREAMING": "Perfectos para retransmitir"
+      }
+    },
+    "es-XL": {
+      "GAMES": {
+        "DRAWING": "Juegos de dibujo",
+        "ONE_PLAYER": "Juegos para un jugador",
+        "STREAMING": "Perfectos para retransmitir"
+      }
+    },
+    "fr": {
+      "GAMES": {
+        "DRAWING": "Jeux de dessin",
+        "ONE_PLAYER": "Jeux pour 1 joueur",
+        "STREAMING": "Pour le streaming"
+      }
+    },
+    "it": {
+      "GAMES": {
+        "DRAWING": "Giochi di disegno",
+        "ONE_PLAYER": "Giochi per 1 giocatore",
+        "STREAMING": "Adatti allo streaming"
+      }
+    },
+    "pt-BR": {
+      "GAMES": {
+        "DRAWING": "Jogos de desenho",
+        "ONE_PLAYER": "Jogos solo",
+        "STREAMING": "Bons para streaming"
+      }
+    }
+  },
+  "modules": [
+    {
+      "kind": "hero",
+      "size": "small",
+      "url": "https://jbgm.es/43I0stN",
+      "background": {
+        "$url": {
+          "de": "MEGAPICKER_DOOMINATE_Header.png",
+          "en": "MEGAPICKER_DOOMINATE_Header.png",
+          "es-XL": "MEGAPICKER_DOOMINATE_Header.png",
+          "es": "MEGAPICKER_DOOMINATE_Header.png",
+          "fr": "MEGAPICKER_DOOMINATE_Header.png",
+          "it": "MEGAPICKER_DOOMINATE_Header.png",
+          "pt-BR": "MEGAPICKER_DOOMINATE_Header.png"
+        }
+      }
+    },
+    {
+      "kind": "local",
+      "key": "favorites"
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.DRAWING",
+      "items": [
+        24,
+        45,
+        33,
+        7,
+        43,
+        54,
+        39,
+        19
+      ]
+    },
+    {
+      "kind": "hero",
+      "size": "small",
+      "url": "https://jbgm.es/4gHJnEL",
+      "background": {
+        "$url": {
+          "de": "DE_MP_SURVEY_PATCH.png",
+          "en": "EN-XL_MP_SURVEY_PATCH.png",
+          "es-XL": "ES-XL_MP_SURVEY_PATCH.png",
+          "es": "ES-ES_MP_SURVEY_PATCH.png",
+          "fr": "FR_MP_SURVEY_PATCH.png",
+          "it": "IT_MP_SURVEY_PATCH.png",
+          "pt-BR": "PT-BR_MP_SURVEY_PATCH.png"
+        }
+      }
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.ONE_PLAYER",
+      "items": [
+        46,
+        23,
+        20,
+        8,
+        44,
+        48,
+        25,
+        3
+      ]
+    },
+    {
+      "kind": "games",
+      "$title": "GAMES.STREAMING",
+      "items": [
+        38,
+        12,
+        25,
+        37,
+        46
+      ]
+    },
+    {
+      "kind": "local",
+      "key": "recentlyPlayed"
+    }
+  ]
+}
