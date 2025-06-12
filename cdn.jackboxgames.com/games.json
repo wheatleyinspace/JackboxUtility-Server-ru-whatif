@@ -41,7 +41,7 @@
   },
   {
     "id": 1,
-    "title": "Drawful",
+    "title": "Рисовач",
     "products": [
       0,
       16,
@@ -50,7 +50,7 @@
       22
     ],
     "description": {
-      "en": "Since 2014, players have attempted to draw absurd things like “Napoleon riding a squirrel.” As a result, a lot of hilariously bad art has been created. We’re proud to say that this is one of our biggest contributions to society."
+      "en": "Игра про рисование, которая берёт все остальные игры про рисование и дорисовывает им усы."
     },
     "duration": 15,
     "minPlayerCount": 3,
