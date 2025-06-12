@@ -2,9 +2,9 @@
   "i18n": {
     "en": {
       "GAMES": {
-        "DRAWING": "Drawing Games",
-        "ONE_PLAYER": "One Player Games",
-        "STREAMING": "Good For Streaming"
+        "DRAWING": "Рисование",
+        "ONE_PLAYER": "Игры для одного игрока",
+        "STREAMING": "Подходит для стриминга"
       }
     },
     "de": {
