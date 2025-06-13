@@ -254,7 +254,7 @@
   },
   {
     "id": 6,
-    "title": "Earwax",
+    "title": "Звукварь",
     "products": [
       1,
       16,
@@ -263,7 +263,7 @@
       22
     ],
     "description": {
-      "en": "When you own a huge library of fart sound effects, you are morally obligated to build a game around it, so that’s what we did with Earwax."
+      "en": "Мычание коровы? Большой взрыв? Или маленький пук? Что выбрать? Это игра со звуковыми эффектами, которая затянет вас по уши в смех!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -297,7 +297,7 @@
   },
   {
     "id": 7,
-    "title": "Bidiots",
+    "title": "Дуракцион",
     "products": [
       1,
       16,
@@ -306,7 +306,7 @@
       22
     ],
     "description": {
-      "en": "Going once… Going twice… SOLD to the player who might’ve just made a huge mistake! Put on your monocle as we explore this fine “art” auction game."
+      "en": "Предложи больше остальных за абсурдные картины, созданные самими игроками! Не будь дураком, играя в этот странный аукцион!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -337,7 +337,7 @@
   },
   {
     "id": 8,
-    "title": "Bomb Corp",
+    "title": "Бомб Корп.",
     "products": [
       1,
       16,
@@ -346,7 +346,7 @@
       22
     ],
     "description": {
-      "en": "You’re an intern at the office doing intern-y things like getting coffee, stapling papers, and defusing bombs. Yes, you’re keeping bombs from exploding. Did we mention its unpaid?"
+      "en": "Добро пожаловать в Бомб Корп. Вы новые работники, которые должны помогать обезвреживать бомбы. В странном офисе, который полон бомб."
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -379,7 +379,7 @@
   },
   {
     "id": 9,
-    "title": "Quiplash",
+    "title": "СмеXLыст",
     "products": [
       1,
       12,
@@ -389,7 +389,7 @@
       22
     ],
     "description": {
-      "en": "Quiplash is the gut-busting battle of wits and wittiness! Just use your phone or tablet (no controllers needed) to answer simple prompts like these: \n\n- Something you’d be surprised to see a donkey do\n- A double rainbow doesn’t have gold at the end of it. Instead, it has ______.\n- A better name for France"
+      "en": "Смешная битва остроумных шуток в самой огромной форме! Придумай \"лучшее имя для уродливого ребёнка\" и выиграй!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -426,7 +426,7 @@
   },
   {
     "id": 10,
-    "title": "Fakin' It",
+    "title": "Обмани меня!",
     "products": [
       2,
       16,
@@ -435,7 +435,7 @@
       22
     ],
     "description": {
-      "en": "In Fakin’ It, you can FINALLY discover how bad your friends are at lying, without any relationship-ending arguments!"
+      "en": "У всех есть ответ, но не каждый знает вопрос. Один из твоих друзей что-то скрывает. Найди его, пока не поздно! Рекомендуем играть вживую или по видеосвязи."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -469,7 +469,7 @@
   },
   {
     "id": 11,
-    "title": "Tee K.O.",
+    "title": "Футбол К.О.",
     "products": [
       2,
       10,
@@ -479,7 +479,7 @@
       22
     ],
     "description": {
-      "en": "In Tee K.O., players are on the clock to create drawings and write as many slogans as possible. The pictures and slogans are then given out at random. Whoever combines their drawings and slogans to create the best t-shirt wins, as designs are pitted against each other in head-to-head battles. The t-shirts with the highest votes in each round must survive the final gauntlet to become the best. Tee… K.O. Get it?",
+      "en": "Рисуй, пиши, и затем совмещай это всё вместе, чтобы получить уникальную футболку. Только самая оригинальная и весёлая футболка покинет турнир живой!",
       "de": "In Tee K.O. spielt man gegen die Zeit, erstellt Zeichnungen und schreibt so viele Slogans wie möglich. Die Bilder und Slogans werden dann nach dem Zufallsprinzip verteilt. Wer seine Zeichnungen und Slogans zum besten T-Shirt kombiniert, gewinnt, denn die Designs treten in Kopf-an-Kopf-Kämpfen gegeneinander an. Die T-Shirts mit den meisten Stimmen in jeder Runde müssen den finalen Spießrutenlauf überstehen, um die Besten zu werden. Tee … K.O. Kapiert?",
       "fr": "Dans Tee K.O., les joueurs doivent créer autant de dessins et de slogans que possible en un temps limité. Les dessins et les slogans sont répartis au hasard. Les joueurs s'affrontent alors à l'occasion d'une série de duels où la meilleure association de dessin et de slogan gagne. Les t-shirts obtenant le plus de votes après chaque manche doivent survivre au duel final pour remporter la victoire. Tee... K.O. Vous avez compris ?",
       "it": "In Tee K.O. i giocatori devono creare rapidamente dei disegni e scrivere quanti più slogan possibili. Le immagini e gli slogan verranno consegnati in modo casuale. Vince chi riesce a combinare disegni e slogan per creare la migliore t-shirt: i design si scontrano l'uno contro l'altro in battaglie testa a testa. Le t-shirt che ricevono più voti in ciascun round dovranno sopravvivere alla sfida finale per diventare le migliori. Tee… K.O. L'hai capita?",
@@ -536,7 +536,7 @@
   },
   {
     "id": 12,
-    "title": "Quiplash 2",
+    "title": "Смехлыст 2",
     "products": [
       2,
       16,
@@ -545,7 +545,7 @@
       22
     ],
     "description": {
-      "en": "Quiplash 2 picks up where its predecessor left off. Enjoy original prompts and twists on the classic formula. Just like in Quiplash, players answer a wide array of fun prompts. "
+      "en": "Игра-где-можно-всё возвращается. Придумай идеальную \"плохую замену зубной пломбе\" и побеждай! Устал от наших вопросов? Теперь можно сделать их самому!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -580,7 +580,7 @@
   },
   {
     "id": 13,
-    "title": "Trivia Murder Party",
+    "title": "Смертельная вечеринка",
     "products": [
       2,
       16,
@@ -589,7 +589,7 @@
       22
     ],
     "description": {
-      "en": "Waaaaake Up! It’s time to play Trivia Murder Party, a deadly quiz show where you match wits with a trivia-obsessed killer. Just stay alive and you’ll be fine."
+      "en": "Будь умным или везучим, чтобы выжить в этом абсурдном шоу серийного убийцы. Но шоу-то весёлое!"
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -624,7 +624,7 @@
   },
   {
     "id": 14,
-    "title": "Guesspionage",
+    "title": "Нашшпионаж",
     "products": [
       2,
       16,
@@ -633,7 +633,7 @@
       22
     ],
     "description": {
-      "en": "Guesspionage tests your knowledge of the human condition. Players predict how real people responded to basic poll questions like “What percentage of people have peed in a public pool?”"
+      "en": "Сколько процентов людей прятало что-то в лесах? Каталось на бампере полицейской машины? Влюблялось в коллегу по работе? Угадай и выиграй!"
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -667,7 +667,7 @@
   },
   {
     "id": 15,
-    "title": "Fibbage 3",
+    "title": "Бредовуха 3",
     "products": [
       3,
       17,
@@ -676,7 +676,7 @@
       22
     ],
     "description": {
-      "en": "It was only a matter of time before we created a loungey 70s version of Fibbage… and that time was 2017 in The Jackbox Party Pack 4."
+      "en": "Сиквел уже знакомой брехалки. Новые факты, больше вариантов, больше интерактивности для зрителей, а также новый игровой режим “Мы всё про вас знаем”."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -713,7 +713,7 @@
   },
   {
     "id": 16,
-    "title": "Survive the Internet",
+    "title": "Выжить в Интернете",
     "products": [
       3,
       17,
@@ -722,7 +722,7 @@
       22
     ],
     "description": {
-      "en": "You’re familiar with the “Internet” right? Imagine a game that takes place within the Jackbox Games version of the Internet. It’s equally terrifying and rewarding."
+      "en": "Войди в систему и пристегнись! Тут выживает сильнейший, который играючи выкинет своих друзей за пределы контекста Всемирной Паутины."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -757,7 +757,7 @@
   },
   {
     "id": 17,
-    "title": "Monster Seeking Monster",
+    "title": "Монстр ищет монстра",
     "products": [
       3,
       17,
@@ -766,7 +766,7 @@
       22
     ],
     "description": {
-      "en": "At the end of the day, we’re all just monsters trying to find love. There’s no better party game to live this truth than Monster Seeking Monster."
+      "en": "Игра в свидания, где нужно отправлять смешные сообщения и одновременно скрывать свою сущность монстра. Прямо как в жизни!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -799,7 +799,7 @@
   },
   {
     "id": 18,
-    "title": "Bracketeering",
+    "title": "Панччемпионат",
     "products": [
       3,
       17,
@@ -808,7 +808,7 @@
       22
     ],
     "description": {
-      "en": "Bracketeering is the game of strong opinions about stupid things. Everything has stakes and everyone is allowed to weigh in and make a final ruling on the truly absurd."
+      "en": "Сумасшедший турнир ответов! “Какой овощ мог бы озвучить Бенедикт Камбербэтч?” Делай умные ставки на победу в глупых битвах."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -843,7 +843,7 @@
   },
   {
     "id": 19,
-    "title": "Civic Doodle",
+    "title": "Гражданский холст",
     "products": [
       3,
       17,
@@ -852,7 +852,7 @@
       22
     ],
     "description": {
-      "en": "The good people of Doodle Valley have enlisted you and your fellow players to beautify the town with ridiculous murals... We’re not sure why they trust you."
+      "en": "Вас наняли, чтобы навести красоту в Долине Дудлов. Победит тот, кто будет лучше всех дополнять рисунки в процессе украшения города."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -888,7 +888,7 @@
   },
   {
     "id": 20,
-    "title": "You Don't Know Jack: Full Stream",
+    "title": "А ГОЛОВУ ТЫ НЕ ЗАБЫЛ: Full Stream",
     "products": [
       4,
       17,
@@ -896,7 +896,7 @@
       22
     ],
     "description": {
-      "en": "The irreverent trivia classic returns, revamped and better than ever! Your favorite host, Cookie Masterson, returns with all-new twisted trivia questions."
+      "en": "А ГОЛОВУ ТЫ НЕ ЗАБЫЛ: Full Stream привносит свой насмешливо-викторинный феномен в безумно популярный и совершенно вымышленный стриминговый сервис Binjpipe! В их соглашении прямо написано, что вам понравится!"
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -929,7 +929,7 @@
   },
   {
     "id": 21,
-    "title": "Split the Room",
+    "title": "Раздели комнату",
     "products": [
       4,
       17,
@@ -937,7 +937,7 @@
       22
     ],
     "description": {
-      "en": "Imagine a world where there’s a party game about creating hilarious and divisive hypothetical questions. Well, it exists already and it’s called Split the Room."
+      "en": "Игра в \"Что, если...\", где возможно всё! Создавай странные и спорные гипотетические ситуации."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -973,7 +973,7 @@
   },
   {
     "id": 22,
-    "title": "Mad Verse City",
+    "title": "Город злых рифм",
     "products": [
       4,
       17,
@@ -981,7 +981,7 @@
       22
     ],
     "description": {
-      "en": "Giant robots have arrived from space and to set the city ablaze with dope rhymes. Who can channel their inner MC to win this robot rap battle?"
+      "en": "Игра про рэп-баттлы роботов! Сразись со своими друзьями и узнай, кто крутой MC, а кто попутал рамсы."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 23,
-    "title": "Zeeple Dome",
+    "title": "Купол-Зипол",
     "products": [
       4,
       17,
@@ -1025,7 +1025,7 @@
       22
     ],
     "description": {
-      "en": "Welcome, Earthlings, to the ZEEPLE DOME! You are now honored contestants on the Bleecha Nebula’s most celebrated (and incredibly violent) game show!!!"
+      "en": "Самая убийственная игра в галактике! Швыряй себя, чтобы выиграть потрясающие призы!!!"
     },
     "duration": 10,
     "minPlayerCount": 1,
@@ -1059,7 +1059,7 @@
   },
   {
     "id": 24,
-    "title": "Patently Stupid",
+    "title": "Творим патенты",
     "products": [
       4,
       17,
@@ -1067,7 +1067,7 @@
       22
     ],
     "description": {
-      "en": "Is your head just bursting with inventive ideas?! Well, show off your creative genius with Patently Stupid, the game that will turn you into a modern Edison!"
+      "en": "Игра в рисование изобретений для решения странных проблем! Представь свои идеи и загребай деньги лопатой!"
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -1104,7 +1104,7 @@
   },
   {
     "id": 25,
-    "title": "Trivia Murder Party 2",
+    "title": "Смертельная вечеринка 2",
     "products": [
       5,
       10,
@@ -1113,7 +1113,7 @@
       22
     ],
     "description": {
-      "en": "Still on the run from the police after the events of the first Trivia Murder Party, the serial killer host has moved into the Murder Hotel where he grew up. In the past his family killed unsuspecting guests at their hotel, but now the host is using the hotel to run his bizarre game show… where he kills unsuspecting guests.",
+      "en": "Всё ещё скрываясь от полиции после событий первой Смертельной вечеринки, ведущий-серийный убийца перебрался в Отель смерти, где он вырос. В прошлом его семья убивала ничего не подозревающих гостей отеля, но теперь ведущий использует это место для проведения своего странного игрового шоу… где он убивает ничего не подозревающих гостей.",
       "de": "Der Serienmördergastgeber ist nach den Ereignissen der ersten Trivia Murder Party immer noch auf der Flucht vor der Polizei und lebt im Murder Hotel, in dem er aufgewachsen ist. Damals tötete seine Familie ahnungslose Gäste im Hotel, aber jetzt nutzt der Gastgeber das Hotel, um eine bizarre Spielshow zu veranstalten … bei der er ahnungslose Gäste tötet.",
       "fr": "Toujours recherché par la police après les événements du premier opus de Trivia Murder Party, le tueur en série s'est cette fois-ci réfugié au Murder Hotel, où il a grandi. Par le passé, sa famille y assassinait des clients, mais le tueur l'utilise aujourd'hui pour organiser son jeu étrange... durant lequel il assassine des clients.",
       "it": "Ancora in fuga dalla polizia dopo gli eventi del primo Trivia Murder Party, il presentatore serial-killer si è trasferito al Murder Hotel dove è cresciuto. In passato la sua famiglia ha ucciso degli ignari ospiti nel loro hotel, ma ora il presentatore lo sta utilizzando per il suo strano gioco a premi... dove uccide gli ignari ospiti.",
@@ -1168,7 +1168,7 @@
   },
   {
     "id": 26,
-    "title": "Role Models",
+    "title": "Анализ роли",
     "products": [
       5,
       17,
