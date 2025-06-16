@@ -210,7 +210,7 @@
   },
   {
     "id": 5,
-    "title": "Fibbage 2",
+    "title": "Бредовуха 2",
     "products": [
       1,
       16,
@@ -219,7 +219,7 @@
       22
     ],
     "description": {
-      "en": "The fib-to-win trivia game returns. Players are presented with an obscure trivia fact that’s missing one key detail. The objective is to fill in the blank so that it fools others into thinking it’s the truth."
+      "en": "Больше Бредовухи! Обманывай своих друзей, избегай их лжи и находи правду. \"Номофобия – это страх оказаться без _____\" Вперёд!"
     },
     "duration": 15,
     "minPlayerCount": 2,
