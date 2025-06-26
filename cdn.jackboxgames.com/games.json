@@ -16,7 +16,6 @@
     "minPlayerCount": 1,
     "maxPlayerCount": 4,
     "languages": [
-      "en"
     ],
     "colors": {
       "primary": "#0B6427",
@@ -1573,7 +1572,6 @@
     "minPlayerCount": 2,
     "maxPlayerCount": 6,
     "languages": [
-      "en"
     ],
     "colors": {
       "primary": "#533F8B",
@@ -2569,7 +2567,6 @@
     "maxPlayerCount": 8,
     "languages": [
       "de",
-      "en",
       "fr",
       "it",
       "es",
@@ -2623,7 +2620,6 @@
     "minPlayerCount": 3,
     "maxPlayerCount": 8,
     "languages": [
-      "en",
       "de",
       "es",
       "fr",
@@ -2718,7 +2714,6 @@
     "maxPlayerCount": 10,
     "languages": [
       "de",
-      "en",
       "fr",
       "it",
       "es",
