@@ -54,16 +54,16 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/43I0stN",
+      "url": "https://jbgm.es/4lqkS0w",
       "background": {
         "$url": {
-          "de": "MEGAPICKER_DOOMINATE_Header.png",
-          "en": "MEGAPICKER_DOOMINATE_Header.png",
-          "es-XL": "MEGAPICKER_DOOMINATE_Header.png",
-          "es": "MEGAPICKER_DOOMINATE_Header.png",
-          "fr": "MEGAPICKER_DOOMINATE_Header.png",
-          "it": "MEGAPICKER_DOOMINATE_Header.png",
-          "pt-BR": "MEGAPICKER_DOOMINATE_Header.png"
+          "de": "SummerSale_2025_megapicker_DE.png",
+          "en": "SummerSale_2025_megapicker_EN.png",
+          "es-XL": "SummerSale_2025_megapicker_LATAM.png",
+          "es": "SummerSale_2025_megapicker_ES.png",
+          "fr": "SummerSale_2025_megapicker_FR.png",
+          "it": "SummerSale_2025_megapicker_IT.png",
+          "pt-BR": "SummerSale_2025_megapicker_BR.png"
         }
       }
     },
@@ -88,16 +88,16 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/4gHJnEL",
+      "url": "https://jbgm.es/43I0stN",
       "background": {
         "$url": {
-          "de": "DE_MP_SURVEY_PATCH.png",
-          "en": "EN-XL_MP_SURVEY_PATCH.png",
-          "es-XL": "ES-XL_MP_SURVEY_PATCH.png",
-          "es": "ES-ES_MP_SURVEY_PATCH.png",
-          "fr": "FR_MP_SURVEY_PATCH.png",
-          "it": "IT_MP_SURVEY_PATCH.png",
-          "pt-BR": "PT-BR_MP_SURVEY_PATCH.png"
+          "de": "MEGAPICKER_DOOMINATE_Header.png",
+          "en": "MEGAPICKER_DOOMINATE_Header.png",
+          "es-XL": "MEGAPICKER_DOOMINATE_Header.png",
+          "es": "MEGAPICKER_DOOMINATE_Header.png",
+          "fr": "MEGAPICKER_DOOMINATE_Header.png",
+          "it": "MEGAPICKER_DOOMINATE_Header.png",
+          "pt-BR": "MEGAPICKER_DOOMINATE_Header.png"
         }
       }
     },
