@@ -54,17 +54,28 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/4lqkS0w",
       "background": {
         "$url": {
-          "de": "SummerSale_2025_megapicker_DE.png",
-          "en": "SummerSale_2025_megapicker_EN.png",
-          "es-XL": "SummerSale_2025_megapicker_LATAM.png",
-          "es": "SummerSale_2025_megapicker_ES.png",
-          "fr": "SummerSale_2025_megapicker_FR.png",
-          "it": "SummerSale_2025_megapicker_IT.png",
-          "pt-BR": "SummerSale_2025_megapicker_BR.png"
+          "de": "pp11.png",
+          "en": "pp11.png",
+          "es-XL": "pp11.png",
+          "es": "pp11.png",
+          "fr": "pp11.png",
+          "it": "pp11.png",
+          "pt-BR": "pp11.png"
         }
+      },
+      "cta": {
+        "$label": {
+          "de": "Auf die Wunschliste",
+          "en": "Wishlist now",
+          "es-XL": "Añádelo a la lista de deseados",
+          "es": "Añádelo a la lista de deseados",
+          "fr": "Ajouter à la liste de souhaits",
+          "it": "Aggiungi adesso alla lista dei desideri",
+          "pt-BR": "Coloque já na lista de desejos"
+        },
+        "url": "https://jbgm.es/3Gsy46j"
       }
     },
     {
@@ -88,16 +99,16 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/43I0stN",
+      "url": "https://jbgm.es/4gHJnEL",
       "background": {
         "$url": {
-          "de": "MEGAPICKER_DOOMINATE_Header.png",
-          "en": "MEGAPICKER_DOOMINATE_Header.png",
-          "es-XL": "MEGAPICKER_DOOMINATE_Header.png",
-          "es": "MEGAPICKER_DOOMINATE_Header.png",
-          "fr": "MEGAPICKER_DOOMINATE_Header.png",
-          "it": "MEGAPICKER_DOOMINATE_Header.png",
-          "pt-BR": "MEGAPICKER_DOOMINATE_Header.png"
+          "de": "SURVEY_BANNER_AVAILABLE_DE.png",
+          "en": "SURVEY_BANNER_AVAILABLE_EN.png",
+          "es-XL": "SURVEY_BANNER_AVAILABLE_ES-INT.png",
+          "es": "SURVEY_BANNER_AVAILABLE_ES-ES.png",
+          "fr": "SURVEY_BANNER_AVAILABLE_FR.png",
+          "it": "SURVEY_BANNER_AVAILABLE_IT.png",
+          "pt-BR": "SURVEY_BANNER_AVAILABLE_PT-BR.png"
         }
       }
     },
