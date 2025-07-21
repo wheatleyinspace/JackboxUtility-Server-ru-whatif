@@ -99,17 +99,28 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/4gHJnEL",
       "background": {
         "$url": {
-          "de": "SURVEY_BANNER_AVAILABLE_DE.png",
-          "en": "SURVEY_BANNER_AVAILABLE_EN.png",
-          "es-XL": "SURVEY_BANNER_AVAILABLE_ES-INT.png",
-          "es": "SURVEY_BANNER_AVAILABLE_ES-ES.png",
-          "fr": "SURVEY_BANNER_AVAILABLE_FR.png",
-          "it": "SURVEY_BANNER_AVAILABLE_IT.png",
-          "pt-BR": "SURVEY_BANNER_AVAILABLE_PT-BR.png"
+          "de": "TMP3.png",
+          "en": "TMP3.png",
+          "es-XL": "TMP3.png",
+          "es": "TMP3.png",
+          "fr": "TMP3.png",
+          "it": "TMP3.png",
+          "pt-BR": "TMP3.png"
         }
+      },
+      "cta": {
+        "$label": {
+          "de": "Auf die Wunschliste",
+          "en": "В желаемое",
+          "es-XL": "Añádelo a la lista de deseados",
+          "es": "Añádelo a la lista de deseados",
+          "fr": "Ajouter à la liste de souhaits",
+          "it": "Aggiungi adesso alla lista dei desideri",
+          "pt-BR": "Coloque já na lista de desejos"
+        },
+        "url": "https://jbgm.es/40VEiT0"
       }
     },
     {
