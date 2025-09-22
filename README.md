@@ -1,3 +1,3 @@
 # JackboxUtility-Server
 
-This folder contains an example of a server used by the JackboxUtility App
+Тут хранится русификация Jackbox Utility переводом What If?
