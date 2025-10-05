@@ -54,16 +54,16 @@
     {
       "kind": "hero",
       "size": "small",
-      "url": "https://jbgm.es/3Gsy46j",
+      "url": "https://jbgm.es/4ntAn9d",
       "background": {
         "$url": {
-          "de": "pp11_release_date.png",
-          "en": "pp11_release_date_ru.png",
-          "es-XL": "pp11_release_date.png",
-          "es": "pp11_release_date.png",
-          "fr": "pp11_release_date.png",
-          "it": "pp11_release_date.png",
-          "pt-BR": "pp11_release_date.png"
+          "de": "Autumn2025_Megapicker.png",
+          "en": "Autumn2025_Megapicker.png",
+          "es-XL": "Autumn2025_Megapicker.png",
+          "es": "Autumn2025_Megapicker.png",
+          "fr": "Autumn2025_Megapicker.png",
+          "it": "Autumn2025_Megapicker.png",
+          "pt-BR": "Autumn2025_Megapicker.png"
         }
       }
     },
@@ -88,28 +88,17 @@
     {
       "kind": "hero",
       "size": "small",
+      "url": "https://jbgm.es/3Gsy46j",
       "background": {
         "$url": {
-          "de": "TMP3.png",
-          "en": "TMP3.png",
-          "es-XL": "TMP3.png",
-          "es": "TMP3.png",
-          "fr": "TMP3.png",
-          "it": "TMP3.png",
-          "pt-BR": "TMP3.png"
+          "de": "pp11_release_date.png",
+          "en": "pp11_release_date.png",
+          "es-XL": "pp11_release_date.png",
+          "es": "pp11_release_date.png",
+          "fr": "pp11_release_date.png",
+          "it": "pp11_release_date.png",
+          "pt-BR": "pp11_release_date.png"
         }
-      },
-      "cta": {
-        "$label": {
-          "de": "Auf die Wunschliste",
-          "en": "В желаемое",
-          "es-XL": "Añádelo a la lista de deseados",
-          "es": "Añádelo a la lista de deseados",
-          "fr": "Ajouter à la liste de souhaits",
-          "it": "Aggiungi adesso alla lista dei desideri",
-          "pt-BR": "Coloque já na lista de desejos"
-        },
-        "url": "https://jbgm.es/40VEiT0"
       }
     },
     {
