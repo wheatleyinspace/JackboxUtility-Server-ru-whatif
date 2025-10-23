@@ -278,5 +278,15 @@
       "productId": "product_survey"
     },
     "releaseDate": "2024-10-24T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Jackbox Party Pack 11",
+    "type": "pack",
+    "steamId": 3364070,
+    "zendesk": {
+      "productId": "product_tjpp11"
+    },
+    "releaseDate": "2025-10-23T05:00:00.000Z"
   }
 ]
