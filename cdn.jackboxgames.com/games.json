@@ -2745,6 +2745,252 @@
       "30": {
         "path": "games/BigSurvey/BigSurvey.swf"
       }
+    },
+  {
+    "id": 57,
+    "title": "Doominate",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Take a perfectly lovely situation and destroy it in this head-to-head joke game where it feels so good to be so bad."
+    },
+    "duration": 20,
+    "minPlayerCount": 3,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#88cbf7",
+      "secondary": "#6d727e"
+    },
+    "types": [
+      "writing"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "fillInTheBlank",
+      "typing",
+      "voting",
+      "writing"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/YouRuinedIt/YouRuinedIt.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_doominate"
+    }
+  },
+  {
+    "id": 58,
+    "title": "Legends of Trivia",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Assemble your team and put your trivia knowledge to the test in a fantastical world full of danger! Teamwork! Monsters! Do you dare take on one of the most challenging trivia games yet?"
+    },
+    "duration": 20,
+    "minPlayerCount": 1,
+    "maxPlayerCount": 6,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#172c38",
+      "secondary": "#f8a62a"
+    },
+    "types": [
+      "trivia"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "singlePlayer",
+      "subtitles",
+      "teamWork",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "trivia"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/TriviaRPG/TriviaRPG.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_legends_of_trivia"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Hear Say",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Record sound effects and dialogue directly from your phone in a foley-inspired game where laughter is the soundtrack. Then, watch your voices come to life in a series of short movie clips!"
+    },
+    "duration": 15,
+    "minPlayerCount": 2,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#001a3b",
+      "secondary": "#b5ff67"
+    },
+    "types": [
+      "sound",
+      "speaking"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "speaking",
+      "voting"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/MicGame/MicGame.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_hear_say"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Cookie Haus",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Play our coziest and kookiest drawing game yet by fulfilling cookie design orders for unusual clientele. Don’t play on an empty stomach!"
+    },
+    "duration": 20,
+    "minPlayerCount": 3,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#38aece",
+      "secondary": "#ca0229"
+    },
+    "types": [
+      "drawing",
+      "writing"
+    ],
+    "features": [
+      "audience",
+      "customMerch",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "art",
+      "fillInTheBlank",
+      "typing",
+      "visual",
+      "voting",
+      "writing"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/CookiesGame/CookiesGame.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_cookie_haus"
+    }
+  },
+  {
+    "id": 61,
+    "title": "Suspectives",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "There’s been a crime, one player secretly did it, and the evidence comes from your own survey answers! Study the clues, defend your innocence (even if you’re lying), and put your friends on trial."
+    },
+    "duration": 15,
+    "minPlayerCount": 4,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#467081",
+      "secondary": "#ffca50"
+    },
+    "types": [
+      "deception",
+      "rolePlay"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "deception",
+      "fillInTheBlank",
+      "mystery",
+      "voting"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/DirtyDetectives/DirtyDetectives.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_suspectives"
     }
   }
 ]
