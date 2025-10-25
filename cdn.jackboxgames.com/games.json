@@ -16,6 +16,7 @@
     "minPlayerCount": 1,
     "maxPlayerCount": 4,
     "languages": [
+      "en"
     ],
     "colors": {
       "primary": "#0B6427",
@@ -40,7 +41,7 @@
   },
   {
     "id": 1,
-    "title": "Рисовач",
+    "title": "Drawful",
     "products": [
       0,
       16,
@@ -49,7 +50,7 @@
       22
     ],
     "description": {
-      "en": "Игра про рисование, которая берёт все остальные игры про рисование и дорисовывает им усы."
+      "en": "Since 2014, players have attempted to draw absurd things like “Napoleon riding a squirrel.” As a result, a lot of hilariously bad art has been created. We’re proud to say that this is one of our biggest contributions to society."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -80,7 +81,7 @@
   },
   {
     "id": 2,
-    "title": "Словоблуд",
+    "title": "Word Spud",
     "products": [
       0,
       16,
@@ -89,7 +90,7 @@
       22
     ],
     "description": {
-      "en": "Играем в слова всю ночь до утра! Дополни слово, которое движется к тебе, чтобы оно понравилось другим игрокам."
+      "en": "If you’re reading about Word Spud, congratulations. You’ve officially become a hardcore Jackbox Games fan. Word Spud is the racy-as-you-want-to-be fill-in-the-blank word game."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -122,7 +123,7 @@
   },
   {
     "id": 3,
-    "title": "Мухи-Врухи",
+    "title": "Lie Swatter",
     "products": [
       0,
       16,
@@ -131,7 +132,7 @@
       22
     ],
     "description": {
-      "en": "Ссут ли лобстеры из головы? Назвала ли Япония лапшу быстрого приготовления изобретением века? Несём ли мы брехню?"
+      "en": "Lie Swatter is the perfect game to play if you need a good random fact to have in your back pocket for cocktail parties, or you just hate bugs."
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -164,7 +165,7 @@
   },
   {
     "id": 4,
-    "title": "Бредовуха XL",
+    "title": "Fibbage XL",
     "products": [
       0,
       14,
@@ -174,7 +175,7 @@
       22
     ],
     "description": {
-      "en": "Обмани своих друзей, не попадись на чужую ложь и отгадай правду (как правило, удивительную). Вперёд!"
+      "en": "In Fibbage XL, players are presented with an obscure trivia fact that’s missing one key detail. The objective is to fill in the blank so that it fools others into thinking it’s the truth."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -209,7 +210,7 @@
   },
   {
     "id": 5,
-    "title": "Бредовуха 2",
+    "title": "Fibbage 2",
     "products": [
       1,
       16,
@@ -218,7 +219,7 @@
       22
     ],
     "description": {
-      "en": "Больше Бредовухи! Обманывай своих друзей, избегай их лжи и находи правду. \"Номофобия – это страх оказаться без _____\" Вперёд!"
+      "en": "The fib-to-win trivia game returns. Players are presented with an obscure trivia fact that’s missing one key detail. The objective is to fill in the blank so that it fools others into thinking it’s the truth."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -253,7 +254,7 @@
   },
   {
     "id": 6,
-    "title": "Звукварь",
+    "title": "Earwax",
     "products": [
       1,
       16,
@@ -262,7 +263,7 @@
       22
     ],
     "description": {
-      "en": "Мычание коровы? Большой взрыв? Или маленький пук? Что выбрать? Это игра со звуковыми эффектами, которая затянет вас по уши в смех!"
+      "en": "When you own a huge library of fart sound effects, you are morally obligated to build a game around it, so that’s what we did with Earwax."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -296,7 +297,7 @@
   },
   {
     "id": 7,
-    "title": "Дуракцион",
+    "title": "Bidiots",
     "products": [
       1,
       16,
@@ -305,7 +306,7 @@
       22
     ],
     "description": {
-      "en": "Предложи больше остальных за абсурдные картины, созданные самими игроками! Не будь дураком, играя в этот странный аукцион!"
+      "en": "Going once… Going twice… SOLD to the player who might’ve just made a huge mistake! Put on your monocle as we explore this fine “art” auction game."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -336,7 +337,7 @@
   },
   {
     "id": 8,
-    "title": "Бомб Корп.",
+    "title": "Bomb Corp",
     "products": [
       1,
       16,
@@ -345,7 +346,7 @@
       22
     ],
     "description": {
-      "en": "Добро пожаловать в Бомб Корп. Вы новые работники, которые должны помогать обезвреживать бомбы. В странном офисе, который полон бомб."
+      "en": "You’re an intern at the office doing intern-y things like getting coffee, stapling papers, and defusing bombs. Yes, you’re keeping bombs from exploding. Did we mention its unpaid?"
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -378,7 +379,7 @@
   },
   {
     "id": 9,
-    "title": "СмеXLыст",
+    "title": "Quiplash",
     "products": [
       1,
       12,
@@ -388,7 +389,7 @@
       22
     ],
     "description": {
-      "en": "Смешная битва остроумных шуток в самой огромной форме! Придумай \"лучшее имя для уродливого ребёнка\" и выиграй!"
+      "en": "Quiplash is the gut-busting battle of wits and wittiness! Just use your phone or tablet (no controllers needed) to answer simple prompts like these: \n\n- Something you’d be surprised to see a donkey do\n- A double rainbow doesn’t have gold at the end of it. Instead, it has ______.\n- A better name for France"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -425,7 +426,7 @@
   },
   {
     "id": 10,
-    "title": "Обмани меня!",
+    "title": "Fakin' It",
     "products": [
       2,
       16,
@@ -434,7 +435,7 @@
       22
     ],
     "description": {
-      "en": "У всех есть ответ, но не каждый знает вопрос. Один из твоих друзей что-то скрывает. Найди его, пока не поздно! Рекомендуем играть вживую или по видеосвязи."
+      "en": "In Fakin’ It, you can FINALLY discover how bad your friends are at lying, without any relationship-ending arguments!"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -468,7 +469,7 @@
   },
   {
     "id": 11,
-    "title": "Футбол К.О.",
+    "title": "Tee K.O.",
     "products": [
       2,
       10,
@@ -478,7 +479,7 @@
       22
     ],
     "description": {
-      "en": "Рисуй, пиши, и затем совмещай это всё вместе, чтобы получить уникальную футболку. Только самая оригинальная и весёлая футболка покинет турнир живой!",
+      "en": "In Tee K.O., players are on the clock to create drawings and write as many slogans as possible. The pictures and slogans are then given out at random. Whoever combines their drawings and slogans to create the best t-shirt wins, as designs are pitted against each other in head-to-head battles. The t-shirts with the highest votes in each round must survive the final gauntlet to become the best. Tee… K.O. Get it?",
       "de": "In Tee K.O. spielt man gegen die Zeit, erstellt Zeichnungen und schreibt so viele Slogans wie möglich. Die Bilder und Slogans werden dann nach dem Zufallsprinzip verteilt. Wer seine Zeichnungen und Slogans zum besten T-Shirt kombiniert, gewinnt, denn die Designs treten in Kopf-an-Kopf-Kämpfen gegeneinander an. Die T-Shirts mit den meisten Stimmen in jeder Runde müssen den finalen Spießrutenlauf überstehen, um die Besten zu werden. Tee … K.O. Kapiert?",
       "fr": "Dans Tee K.O., les joueurs doivent créer autant de dessins et de slogans que possible en un temps limité. Les dessins et les slogans sont répartis au hasard. Les joueurs s'affrontent alors à l'occasion d'une série de duels où la meilleure association de dessin et de slogan gagne. Les t-shirts obtenant le plus de votes après chaque manche doivent survivre au duel final pour remporter la victoire. Tee... K.O. Vous avez compris ?",
       "it": "In Tee K.O. i giocatori devono creare rapidamente dei disegni e scrivere quanti più slogan possibili. Le immagini e gli slogan verranno consegnati in modo casuale. Vince chi riesce a combinare disegni e slogan per creare la migliore t-shirt: i design si scontrano l'uno contro l'altro in battaglie testa a testa. Le t-shirt che ricevono più voti in ciascun round dovranno sopravvivere alla sfida finale per diventare le migliori. Tee… K.O. L'hai capita?",
@@ -535,7 +536,7 @@
   },
   {
     "id": 12,
-    "title": "Смехлыст 2",
+    "title": "Quiplash 2",
     "products": [
       2,
       16,
@@ -544,7 +545,7 @@
       22
     ],
     "description": {
-      "en": "Игра-где-можно-всё возвращается. Придумай идеальную \"плохую замену зубной пломбе\" и побеждай! Устал от наших вопросов? Теперь можно сделать их самому!"
+      "en": "Quiplash 2 picks up where its predecessor left off. Enjoy original prompts and twists on the classic formula. Just like in Quiplash, players answer a wide array of fun prompts. "
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -579,7 +580,7 @@
   },
   {
     "id": 13,
-    "title": "Смертельная вечеринка",
+    "title": "Trivia Murder Party",
     "products": [
       2,
       16,
@@ -588,7 +589,7 @@
       22
     ],
     "description": {
-      "en": "Будь умным или везучим, чтобы выжить в этом абсурдном шоу серийного убийцы. Но шоу-то весёлое!"
+      "en": "Waaaaake Up! It’s time to play Trivia Murder Party, a deadly quiz show where you match wits with a trivia-obsessed killer. Just stay alive and you’ll be fine."
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -623,7 +624,7 @@
   },
   {
     "id": 14,
-    "title": "Нашшпионаж",
+    "title": "Guesspionage",
     "products": [
       2,
       16,
@@ -632,7 +633,7 @@
       22
     ],
     "description": {
-      "en": "Сколько процентов людей прятало что-то в лесах? Каталось на бампере полицейской машины? Влюблялось в коллегу по работе? Угадай и выиграй!"
+      "en": "Guesspionage tests your knowledge of the human condition. Players predict how real people responded to basic poll questions like “What percentage of people have peed in a public pool?”"
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -666,7 +667,7 @@
   },
   {
     "id": 15,
-    "title": "Бредовуха 3",
+    "title": "Fibbage 3",
     "products": [
       3,
       17,
@@ -675,7 +676,7 @@
       22
     ],
     "description": {
-      "en": "Сиквел уже знакомой брехалки. Новые факты, больше вариантов, больше интерактивности для зрителей, а также новый игровой режим “Мы всё про вас знаем”."
+      "en": "It was only a matter of time before we created a loungey 70s version of Fibbage… and that time was 2017 in The Jackbox Party Pack 4."
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -712,7 +713,7 @@
   },
   {
     "id": 16,
-    "title": "Выжить в Интернете",
+    "title": "Survive the Internet",
     "products": [
       3,
       17,
@@ -721,7 +722,7 @@
       22
     ],
     "description": {
-      "en": "Войди в систему и пристегнись! Тут выживает сильнейший, который играючи выкинет своих друзей за пределы контекста Всемирной Паутины."
+      "en": "You’re familiar with the “Internet” right? Imagine a game that takes place within the Jackbox Games version of the Internet. It’s equally terrifying and rewarding."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -756,7 +757,7 @@
   },
   {
     "id": 17,
-    "title": "Монстр ищет монстра",
+    "title": "Monster Seeking Monster",
     "products": [
       3,
       17,
@@ -765,7 +766,7 @@
       22
     ],
     "description": {
-      "en": "Игра в свидания, где нужно отправлять смешные сообщения и одновременно скрывать свою сущность монстра. Прямо как в жизни!"
+      "en": "At the end of the day, we’re all just monsters trying to find love. There’s no better party game to live this truth than Monster Seeking Monster."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -798,7 +799,7 @@
   },
   {
     "id": 18,
-    "title": "Панччемпионат",
+    "title": "Bracketeering",
     "products": [
       3,
       17,
@@ -807,7 +808,7 @@
       22
     ],
     "description": {
-      "en": "Сумасшедший турнир ответов! “Какой овощ мог бы озвучить Бенедикт Камбербэтч?” Делай умные ставки на победу в глупых битвах."
+      "en": "Bracketeering is the game of strong opinions about stupid things. Everything has stakes and everyone is allowed to weigh in and make a final ruling on the truly absurd."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -842,7 +843,7 @@
   },
   {
     "id": 19,
-    "title": "Гражданский холст",
+    "title": "Civic Doodle",
     "products": [
       3,
       17,
@@ -851,7 +852,7 @@
       22
     ],
     "description": {
-      "en": "Вас наняли, чтобы навести красоту в Долине Дудлов. Победит тот, кто будет лучше всех дополнять рисунки в процессе украшения города."
+      "en": "The good people of Doodle Valley have enlisted you and your fellow players to beautify the town with ridiculous murals... We’re not sure why they trust you."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -887,7 +888,7 @@
   },
   {
     "id": 20,
-    "title": "А ГОЛОВУ ТЫ НЕ ЗАБЫЛ: Full Stream",
+    "title": "You Don't Know Jack: Full Stream",
     "products": [
       4,
       17,
@@ -895,7 +896,7 @@
       22
     ],
     "description": {
-      "en": "А ГОЛОВУ ТЫ НЕ ЗАБЫЛ: Full Stream привносит свой насмешливо-викторинный феномен в безумно популярный и совершенно вымышленный стриминговый сервис Binjpipe! В их соглашении прямо написано, что вам понравится!"
+      "en": "The irreverent trivia classic returns, revamped and better than ever! Your favorite host, Cookie Masterson, returns with all-new twisted trivia questions."
     },
     "duration": 15,
     "minPlayerCount": 1,
@@ -928,7 +929,7 @@
   },
   {
     "id": 21,
-    "title": "Раздели комнату",
+    "title": "Split the Room",
     "products": [
       4,
       17,
@@ -936,7 +937,7 @@
       22
     ],
     "description": {
-      "en": "Игра в \"Что, если...\", где возможно всё! Создавай странные и спорные гипотетические ситуации."
+      "en": "Imagine a world where there’s a party game about creating hilarious and divisive hypothetical questions. Well, it exists already and it’s called Split the Room."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -972,7 +973,7 @@
   },
   {
     "id": 22,
-    "title": "Город злых рифм",
+    "title": "Mad Verse City",
     "products": [
       4,
       17,
@@ -980,7 +981,7 @@
       22
     ],
     "description": {
-      "en": "Игра про рэп-баттлы роботов! Сразись со своими друзьями и узнай, кто крутой MC, а кто попутал рамсы."
+      "en": "Giant robots have arrived from space and to set the city ablaze with dope rhymes. Who can channel their inner MC to win this robot rap battle?"
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1016,7 +1017,7 @@
   },
   {
     "id": 23,
-    "title": "Купол-Зипол",
+    "title": "Zeeple Dome",
     "products": [
       4,
       17,
@@ -1024,7 +1025,7 @@
       22
     ],
     "description": {
-      "en": "Самая убийственная игра в галактике! Швыряй себя, чтобы выиграть потрясающие призы!!!"
+      "en": "Welcome, Earthlings, to the ZEEPLE DOME! You are now honored contestants on the Bleecha Nebula’s most celebrated (and incredibly violent) game show!!!"
     },
     "duration": 10,
     "minPlayerCount": 1,
@@ -1058,7 +1059,7 @@
   },
   {
     "id": 24,
-    "title": "Творим патенты",
+    "title": "Patently Stupid",
     "products": [
       4,
       17,
@@ -1066,7 +1067,7 @@
       22
     ],
     "description": {
-      "en": "Игра в рисование изобретений для решения странных проблем! Представь свои идеи и загребай деньги лопатой!"
+      "en": "Is your head just bursting with inventive ideas?! Well, show off your creative genius with Patently Stupid, the game that will turn you into a modern Edison!"
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -1103,7 +1104,7 @@
   },
   {
     "id": 25,
-    "title": "Смертельная вечеринка 2",
+    "title": "Trivia Murder Party 2",
     "products": [
       5,
       10,
@@ -1112,7 +1113,7 @@
       22
     ],
     "description": {
-      "en": "Всё ещё скрываясь от полиции после событий первой Смертельной вечеринки, ведущий-серийный убийца перебрался в Отель смерти, где он вырос. В прошлом его семья убивала ничего не подозревающих гостей отеля, но теперь ведущий использует это место для проведения своего странного игрового шоу… где он убивает ничего не подозревающих гостей.",
+      "en": "Still on the run from the police after the events of the first Trivia Murder Party, the serial killer host has moved into the Murder Hotel where he grew up. In the past his family killed unsuspecting guests at their hotel, but now the host is using the hotel to run his bizarre game show… where he kills unsuspecting guests.",
       "de": "Der Serienmördergastgeber ist nach den Ereignissen der ersten Trivia Murder Party immer noch auf der Flucht vor der Polizei und lebt im Murder Hotel, in dem er aufgewachsen ist. Damals tötete seine Familie ahnungslose Gäste im Hotel, aber jetzt nutzt der Gastgeber das Hotel, um eine bizarre Spielshow zu veranstalten … bei der er ahnungslose Gäste tötet.",
       "fr": "Toujours recherché par la police après les événements du premier opus de Trivia Murder Party, le tueur en série s'est cette fois-ci réfugié au Murder Hotel, où il a grandi. Par le passé, sa famille y assassinait des clients, mais le tueur l'utilise aujourd'hui pour organiser son jeu étrange... durant lequel il assassine des clients.",
       "it": "Ancora in fuga dalla polizia dopo gli eventi del primo Trivia Murder Party, il presentatore serial-killer si è trasferito al Murder Hotel dove è cresciuto. In passato la sua famiglia ha ucciso degli ignari ospiti nel loro hotel, ma ora il presentatore lo sta utilizzando per il suo strano gioco a premi... dove uccide gli ignari ospiti.",
@@ -1167,7 +1168,7 @@
   },
   {
     "id": 26,
-    "title": "Анализ роли",
+    "title": "Role Models",
     "products": [
       5,
       17,
@@ -1175,7 +1176,7 @@
       22
     ],
     "description": {
-      "en": "Знаешь ли ты окружающих? Кто из вас ботаник, любящий бекон, а кто – меланхоличный комбинатор? Всё покажет Анализ роли!"
+      "en": "Everybody’s somebody, so who are you? The planner? The flake? The sassy one? Only your friends know the real you, and now they have the perfect excuse to tell you all about it."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1215,7 +1216,7 @@
   },
   {
     "id": 27,
-    "title": "Корабль смеха",
+    "title": "Joke Boat",
     "products": [
       5,
       17,
@@ -1223,7 +1224,7 @@
       22
     ],
     "description": {
-      "en": "Право руля! Вы – комик на престижном круизном корабле! Сможете ли вы одержать победу в шоу талантов? "
+      "en": "Ahoy there, you must be the comedians. The cruise ship’s talent show is tonight so grab your ventriloquist dummy and follow me! We’ve got some jokes to write! "
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1261,7 +1262,7 @@
   },
   {
     "id": 28,
-    "title": "Словариум",
+    "title": "Dictionarium",
     "products": [
       5,
       17,
@@ -1269,7 +1270,7 @@
       22
     ],
     "description": {
-      "en": "Люди веками придумывали слова и словосочетания. Теперь настала ваша очередь внести свой вклад в создание Словариума."
+      "en": "Humans have been inventing words and phrases for centuries. Now it’s your turn to contribute an entry to the pages of the Dictionarium."
     },
     "duration": 10,
     "minPlayerCount": 3,
@@ -1304,7 +1305,7 @@
   },
   {
     "id": 29,
-    "title": "Жми на кнопку",
+    "title": "Push the Button",
     "products": [
       5,
       17,
@@ -1312,7 +1313,7 @@
       22
     ],
     "description": {
-      "en": "Внимание! На ваш корабль проникли пришельцы. Сможет ли ваша команда определить, кто является пришельцем, до истечения времени?"
+      "en": "Your ship has been invaded by aliens who look just like your best friends! Find the imposters and eject them into space before the timer runs out or we’re all doomed!"
     },
     "duration": 20,
     "minPlayerCount": 4,
@@ -1351,7 +1352,7 @@
   },
   {
     "id": 30,
-    "title": "На пальцах",
+    "title": "Talking Points",
     "products": [
       6,
       18,
@@ -1359,7 +1360,7 @@
       22
     ],
     "description": {
-      "en": "Выступи с презентацией, которую увидишь в первый раз. И неважно, будет ли в твоих словах смысл!"
+      "en": "Public speaking is fun, actually. Players are given picture slides they’ve never seen and words they didn’t write. Giving a speech has never been this weird or this funny."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -1396,7 +1397,7 @@
   },
   {
     "id": 31,
-    "title": "Смехлыст 3",
+    "title": "Quiplash 3",
     "products": [
       6,
       10,
@@ -1405,7 +1406,7 @@
       22
     ],
     "description": {
-      "en": "Игроки вступают в словесную дуэль, отвечая на забавный вопрос, а остальные игроки (а также зрители) решают, чей ответ им больше понравился! ",
+      "en": "Players enter a head-to-head battle of wits by answering a comedic prompt and letting the other players (and the audience) decide which they like best!",
       "de": "Die Spieler treten in einem Kopf-an-Kopf-Kampf an, indem sie auf eine witzige Frage antworten und die anderen Spieler (und das Publikum) entscheiden lassen, welche Antwort ihnen am besten gefiel!",
       "fr": "Les joueurs s'affrontent lors d'une bataille d'humour en répondant à des sujets amusants. C'est aux autres joueurs (et à l'audience) de décider la personne qu'ils ont préférée !",
       "it": "Quiplash è una sfrenata battaglia tra ingegno e umorismo! Basta usare il tuo telefono o tablet (non sono necessari controller) per rispondere a semplici quesiti come questi:\n- Una cosa che ti sorprenderebbe vedere un asino fare\n- Un doppio arcobaleno non ha un paiolo d'oro alla sua fine. Invece ha ______.\n- Un nome migliore per la Francia",
@@ -1460,9 +1461,9 @@
   },
   {
     "id": 32,
-    "title": "Дьяволы в деталях",
+    "title": "The Devils and the Details",
     "description": {
-      "en": "Вы – семья дьяволов, которая переехала наверх. Переживёте ли вы все трудности человеческой жизни? "
+      "en": "Congratulations, demons! You’ll be moving to an average suburban neighborhood, where you’ll take part in the pointless and highly stressful rituals of mortal life. "
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1508,7 +1509,7 @@
   },
   {
     "id": 33,
-    "title": "Гладиарторы",
+    "title": "Champ'd Up",
     "products": [
       6,
       18,
@@ -1516,7 +1517,7 @@
       22
     ],
     "description": {
-      "en": "Приходи в Каракулизей, где бойцы сражаются за странные титулы. Создай своего чемпиона-фаворита! "
+      "en": "Enter the Scrawliseum, where player-created characters fight over unusual titles. Heavy favorites are pitted against underdogs to create hilarious, high-octane matches. "
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -1572,6 +1573,7 @@
     "minPlayerCount": 2,
     "maxPlayerCount": 6,
     "languages": [
+      "en"
     ],
     "colors": {
       "primary": "#533F8B",
@@ -1605,7 +1607,7 @@
   },
   {
     "id": 35,
-    "title": "За работой",
+    "title": "Job Job",
     "products": [
       7,
       18,
@@ -1613,7 +1615,7 @@
       22
     ],
     "description": {
-      "en": "Добро пожаловать в За работой — игру, где все проходят собеседование на работу! Забавные и необычные ответы собирают голоса, а игрок с наибольшим количеством очков в итоге ПОКОРЯЕТ МЕСТО ЗА РАБОТОЙ! "
+      "en": "Welcome to Job Job, a game where everybody interviews for a job! Funny and unique answers get votes, and the player with the most points in the end SCORES THE JOB (JOB)!"
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -1652,7 +1654,7 @@
   },
   {
     "id": 36,
-    "title": "Рисовач: Анимач",
+    "title": "Drawful Animate",
     "products": [
       7,
       18,
@@ -1660,7 +1662,7 @@
       22
     ],
     "description": {
-      "en": "Оно ожило! Классическая игра в угадайку возвращается с энергией в Рисовач: Анимач — тут игроки рисуют двухкадровые анимации по сумасшедшим заданиям. "
+      "en": "It’s alive! The classic guessing game makes an energetic return in Drawful: Animate, which has players drawing two-frame animations based on absurd prompts."
     },
     "duration": 15,
     "minPlayerCount": 3,
@@ -1699,7 +1701,7 @@
   },
   {
     "id": 37,
-    "title": "Колесо невероятных масштабов",
+    "title": "The Wheel of Enormous Proportions",
     "products": [
       7,
       18,
@@ -1707,7 +1709,7 @@
       22
     ],
     "description": {
-      "en": "Колесо невероятных масштабов — это гибрид викторины и удачи, который ведёт бессмертное, всезнающее колесо с вершины горы в небесах. "
+      "en": "The Wheel of Enormous Proportions is a hybrid game of trivia and chance hosted by an immortal, all-knowing wheel from a mountaintop in the sky. "
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -1744,7 +1746,7 @@
   },
   {
     "id": 38,
-    "title": "Подземнения",
+    "title": "The Poll Mine",
     "products": [
       7,
       18,
@@ -1752,7 +1754,7 @@
       22
     ],
     "description": {
-      "en": "Игра-опрос на выживание! Игроки делятся на две команды, тайком отвечают на вопросы опроса, а потом пытаются угадать результаты. Сумеешь открыть правильные двери и сбежать?!"
+      "en": "A survey game of survival! Players divide into two teams, secretly answer survey questions, then try to guess the results. Can you open the correct doors and escape?!"
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -1791,7 +1793,7 @@
   },
   {
     "id": 39,
-    "title": "Преступление и рисование",
+    "title": "Weapons Drawn",
     "products": [
       7,
       18,
@@ -1799,7 +1801,7 @@
       22
     ],
     "description": {
-      "en": "УБИЙСТВО СОВЕРШЕНО! На самом деле не одно... Преступление и рисование — это игра на социальное расследование, где все замешаны. Успей сам замутить своё преступление, прежде чем раскрыть чужие!"
+      "en": "THERE’S BEEN A MURDER! Several in fact... Weapons Drawn is a social deduction game where everyone did it. Commit one yourself before solving others."
     },
     "duration": 20,
     "minPlayerCount": 4,
@@ -1837,7 +1839,7 @@
   },
   {
     "id": 40,
-    "title": "Бредовуха 4",
+    "title": "Fibbage 4",
     "products": [
       8,
       18,
@@ -1845,7 +1847,7 @@
       22
     ],
     "description": {
-      "en": "Весёлый квадриквел брехалки с новыми способами обмануть друзей! Возвращается Финальная Бредовуха — с видео-вопросами и свежим игровым режимом! Игра настолько крутая, что мы просто добавили к названию цифру 4.",
+      "en": "The hilarious bluffing party game returns with an all-new Final Fibbage, video questions, and a fresh game mode! It’s a game so beloved that we decided to slap a 4 on it.",
       "de": "Das lustige Bluff-Partyspiel kehrt zurück mit einem völlig neuen „Final Fibbage“, Videofragen und einem neuen Spielmodus! Das Spiel ist so beliebt, dass wir entschieden haben, noch eine 4 draufzuklatschen.",
       "fr": "Le jeu de bluff hilarant est de retour avec de toutes nouvelles questions « Final Fibbage », des questions vidéo et un tout nouveau mode de jeu ! Ce jeu est si apprécié qu'on a décidé d'y coller un 4.",
       "it": "Il divertentissimo party game di bluff ritorna con un nuovo Final Fibbage, domande video e la nuova modalità di gioco! È un gioco talmente apprezzato che abbiamo deciso di realizzarlo per la quarta volta.",
@@ -1897,7 +1899,7 @@
   },
   {
     "id": 41,
-    "title": "Квартиранг",
+    "title": "Roomerang",
     "products": [
       8,
       18,
@@ -1905,7 +1907,7 @@
       22
     ],
     "description": {
-      "en": "Включай своего внутреннего героя реалити-шоу и борись за первое место! Отвечай на вопросы, поднимай градус конкуренции и играй роль, чтобы не оказаться выкинутым за дверь.",
+      "en": "Channel your inner reality TV star in an attempt to come out on top! Respond to prompts, bring the competition and role-play to avoid being voted out.",
       "de": "Lasst eurem inneren Reality-TV-Star freien Lauf und versucht, den Sieg davonzutragen! Reagiert auf die Beiträge der anderen Spieler und gebt euch dem kompetitiven Rollenspiel hin, um nicht rausgewählt zu werden.",
       "fr": "Canalisez la star de la télé-réalité qui sommeille en vous afin d'atteindre le sommet ! Répondez aux questions, faites preuve de compétitivité et jouez la comédie pour empêcher votre élimination.",
       "it": "Impersona una star dei reality show e prova a vincere! Rispondi alle domande, vinci la gara ed evita di farti votare per uscire dalla casa.",
@@ -1956,7 +1958,7 @@
   },
   {
     "id": 42,
-    "title": "Хламотопия",
+    "title": "Junktopia",
     "products": [
       8,
       18,
@@ -1964,7 +1966,7 @@
       22
     ],
     "description": {
-      "en": "Странный волшебник превратил тебя в лягушку! Придумывай смешные истории для странных предметов, а потом оценивайте их вместе. Тот, у кого самые крутые вещи — снова становится человеком!",
+      "en": "A strange wizard has turned you into a frog! Create hilarious backstories for weird objects and then get them appraised. The player with the best items becomes human again!",
       "de": "Ein seltsamer Zauberer hat euch in einen Frosch verwandelt! Erfindet witzige Hintergrundgeschichten für seltsame Gegenstände und lasst sie dann bewerten. Der Spieler mit den besten Gegenständen wird wieder zum Menschen!",
       "fr": "Un étrange sorcier vous a transformé en grenouille ! Donnez une histoire hilarante à divers objets bizarres et faites-les estimer. Le joueur avec les meilleurs objets pourra redevenir humain !",
       "it": "Uno strano mago vi ha trasformati in rane! Create delle storie divertenti per degli strani oggetti e poi fateli valutare. Il giocatore che avrà i migliori oggetti più ritornerà a essere umano!",
@@ -2015,7 +2017,7 @@
   },
   {
     "id": 43,
-    "title": "Несуразум",
+    "title": "Nonsensory",
     "products": [
       8,
       18,
@@ -2023,7 +2025,7 @@
       22
     ],
     "description": {
-      "en": "Профессор Янка пришла проверить твоё НРВ (Несуразумное Восприятие). Насколько точно ты сможешь угадать, на каком месте по шкале глупости стоит подсказка другого игрока?",
+      "en": "Professor Nanners is here to test your NSP (Nonsensory Perception). How close can you get to guessing where another player’s prompt ranks on the silliest of scales?",
       "de": "Professor Nanners wird eure nicht-sensorischen Wahrnehmungsfähigkeiten testen! Wie gut könnt ihr erraten, wo der Beitrag eines anderen Spielers auf der dümmsten aller Skalen rangiert?",
       "fr": "Le professeur Nanners vient tester votre perception non sensorielle ! Pourrez-vous correctement deviner le classement de la phrase d'un autre joueur sur l'échelle la plus absurde ?",
       "it": "Il professor Nanners è qui per mettere alla prova la tua NSP (percezione non sensoriale). Quanto ti avvicinerai a indovinare dove si posiziona un alto giocatore nelle classifiche più assurde?",
@@ -2077,7 +2079,7 @@
   },
   {
     "id": 44,
-    "title": "Скоросорт",
+    "title": "Quixort",
     "products": [
       8,
       18,
@@ -2085,7 +2087,7 @@
       22
     ],
     "description": {
-      "en": "В этой фабрике викторин вместе с командой сортируй падающие ответы в правильном порядке, пока они не упали на пол. Всё просто — как А, В, Б! ",
+      "en": "In this trivia sorting factory, work with your team to sort falling answers into their proper order before they hit the floor. It’s as easy as A, C, B!",
       "de": "In dieser Trivia-Sortierfabrik müsst ihr mit eurem Team die herabfallenden Antworten in die richtige Reihenfolge bringen, bevor sie den Boden erreichen. Das ist so einfach wie das ACB!",
       "fr": "Travaillez en équipe dans cette usine de tri de culture générale : triez les réponses qui tombent dans le bon ordre avant qu'elles ne touchent le sol ! C'est simple comme jonbour !",
       "it": "In questa fabbrica di domande da smistare, dovrai collaborare con la tua squadra per smistare le risposte che cadono nel giusto ordine prima che tocchino terra. È facile come l'A, C, B!",
@@ -2139,13 +2141,13 @@
   },
   {
     "id": 45,
-    "title": "Футбол К.О. 2",
+    "title": "Tee K.O. 2",
     "products": [
       9,
       22
     ],
     "description": {
-      "en": "Любимая всеми битва модников возвращается! Создавай ультимативную одежду из своих странных рисунков и слоганов, а потом отправляй её в бой. С новыми инструментами для рисования, крутыми вариантами одежды — худи и майками — и финальным раундом, где нужно жать кнопки на полную… кто же станет следующим чемпионом Острова Футболок?",
+      "en": "The fan-favorite fashion throw down returns! Create the ultimate garment out of your own weird drawings and slogans, then send it into battle. But with new drawing tools, new clothing options like hoodies and tank tops, and a new button-pounding final round… who will emerge as the next champion of Tee Shirt Island?",
       "de": "Das beliebte Fashion-Duell kehrt zurück! Kreiert das ultimative Kleidungsstück aus euren eigenen verrückten Zeichnungen und Slogans und schickt es dann in die Schlacht. Aber mit neuen Zeichenwerkzeugen, neuen Kleidungsoptionen wie Kapuzenpullis und Tanktops und einer neuen, aufregenden Finalrunde … wer wird der nächste Champion der T-Shirt-Insel?",
       "fr": "La bataille de mode favorite des joueurs est de retour ! Créez le vêtement ultime avec vos dessins et slogans bizarres, puis envoyez-les au combat. Avec de nouveaux outils de dessins, de nouvelles options de vêtements comme les sweats à capuche et les débardeurs, et une nouvelle manche finale trépidante… qui sortira vainqueur de l'île aux t-shirts ?",
       "it": "Ritorna il gioco di moda preferito dai fan! Crea l'indumento per eccellenza con i tuoi disegni e slogan strambi e mandalo in battaglia. Ma con i nuovi strumenti da disegno, le nuove opzioni di abbigliamento, come felpe e canottiere, e un round finale a suon di pulsanti... chi sarà il prossimo campione di Tee Shirt Island?",
@@ -2202,13 +2204,13 @@
   },
   {
     "id": 46,
-    "title": "Додо Ре Ми",
+    "title": "Dodo Re Mi",
     "products": [
       9,
       22
     ],
     "description": {
-      "en": "Здравствуй, славная природа.\n\nДобро пожаловать в неизведанные джунгли, населённые музыкальными птичками, которые играют мелодии для плотоядного цветка… которое МОЖЕТ их съесть, если они сыграют мимо нот. Это додо? Нет. Произошли ли они от додо? Возможно… но не заморачивайся. Мы вот не заморачивались.",
+      "en": "Hello gorgeous nature.\n\nWelcome to an uncharted jungle, inhabited by musical birds who play songs for a carnivorous plant that MIGHT eat them, if they don’t play their notes accurately. Are they dodos? No. Did they evolve from dodos? Maybe…don’t overthink it. We didn’t.",
       "de": "Hallo, traumhafte Natur.\n\nWillkommen in einem unerforschten Dschungel, bevölkert von musikalischen Vögeln, die Lieder für eine fleischfressende Pflanze spielen, welche sie fressen KÖNNTE, wenn sie ihre Töne nicht treffen. Sind das Dodos? Nein. Stammen sie von Dodos ab? Vielleicht … zerbrich dir darüber nicht den Kopf. Wir haben das jedenfalls nicht getan.",
       "fr": "Profitez de la nature.\n\nBienvenue dans une jungle inexplorée, habitée d'oiseaux qui font de la musique pour une plante carnivore qui POURRAIT les dévorer s'ils ratent une note. Est-ce que ce sont des dodos ? Non. Est-ce une évolution des dodos ? Peut-être... Mieux vaut ne pas trop y penser. Nous, c'est ce qu'on a fait.",
       "it": "Salve natura meravigliosa.\n\nTi diamo il benvenuto in una giungla inesplorata, abitata da volatili musicali che intonano canzoni da una piante carnivora che POTREBBE mangiarli, se non azzeccano le note. Sono dodo? No. Sono un'evoluzione dei dodo? Forse... non pensarci troppo. Noi non l'abbiamo fatto.",
@@ -2265,13 +2267,13 @@
   },
   {
     "id": 47,
-    "title": "ТекстоПрав",
+    "title": "FixyText",
     "products": [
       9,
       22
     ],
     "description": {
-      "en": "Вы когда-нибудь мечтали, чтобы кто-то отвечал на ваши сообщения за вас?\nПредставляли, какие гениальные ответы вы бы выдали вместе с друзьями, если бы объединили свои мозги? Вам повезло! Эта игра позволяет воплотить эту фантазию в жизнь — полный хаос без всяких последствий и отмен!",
+      "en": "Ever wished someone would answer your texts for you?\nImagined the masterful comebacks you and your friends would create if you mashed all your brains together? You’re in luck! This game lets you play out that fantasy with all of the chaos, and none of the backlash!",
       "de": "Habt ihr euch gewünscht, jemand würde für euch auf eure Nachrichten antworten? \nDir die meisterhaften Antworten vorgestellt, die du und deine Freunde mit vereintem Hirn verfassen würden? Dann hast du Glück! Mit diesem Spiel kannst du diese Fantasie ausleben, mit all dem zugehörigen Chaos, aber ohne irgendwelche Auswirkungen!",
       "fr": "Avez-vous déjà souhaité que quelqu'un réponde à vos SMS à votre place ? \nAvez-vous déjà imaginé les répliques cinglantes que vos amis et vous pourriez sortir si vous fusionniez vos cerveaux ? C'est votre jour de chance ! Ce jeu vous permet de réaliser ce rêve, avec tout le chaos qui en découle, mais sans aucune conséquence !",
       "it": "Hai mai desiderato che qualcuno rispondesse ai messaggi al posto tuo? \nHai mai immaginato quali risposte magistrali avresti inventato con gli amici se solo aveste fuso i vostri cervelli? La fortuna è dalla tua! Questo gioco ti permette di realizzare quella fantasia con tutto il casino e nessuna reazione!",
@@ -2324,13 +2326,13 @@
   },
   {
     "id": 48,
-    "title": "Хроноворот",
+    "title": "Timejinx",
     "products": [
       9,
       22
     ],
     "description": {
-      "en": "Что бы вы сделали, если бы у вас была машина времени? Вернулись бы назад, чтобы исправить ошибки? Отправились бы в будущее, чтобы увидеть, кем вы стали? Конечно же, нет! Вы бы использовали её, чтобы сыграть в захватывающую викторину! ",
+      "en": "What would you do if you had a time machine? Would you go back and try to fix some mistakes? Would you travel into the future to see who you’ve become? No, of course not! You’d use it to play an immersive trivia game!",
       "de": "Bist du der beste Quiz-Spieler aller Zeiten?\n\nWas würdest du machen, wenn du eine Zeitmaschine hättest? Würdest du zurückgehen und versuchen, Fehler zu beheben? Würdest du in die Zukunft reisen, um zu sehen, was darin aus dir geworden ist? Nein, natürlich nicht! Du würdest sie verwenden, um ein immersives Quizspiel zu spielen!",
       "fr": "Que feriez-vous si vous aviez une machine à voyager dans le temps ? Retourneriez-vous dans le passé pour réparer des erreurs ? Voyageriez-vous dans le futur pour voir ce que vous devenez ? Bien sûr que non ! Vous l'utiliseriez dans un jeu de culture générale immersif !",
       "it": "Cosa faresti se avessi una macchina del tempo? Torneresti indietro e cercheresti di rimediare a qualche errore? Viaggeresti nel futuro per vedere chi sei diventato? No, certo che no! La useresti per giocare a un gioco di trivia immersivo!",
@@ -2381,13 +2383,13 @@
   },
   {
     "id": 49,
-    "title": "Гипнозарение",
+    "title": "Hypnotorious",
     "products": [
       9,
       22
     ],
     "description": {
-      "en": "ГИПНОЗ, КОМАНДНАЯ РАБОТА И ТАЙНЫЕ ЛИЧНОСТИ!!!\nВ Гипнозарении игроки оказываются на шоу гипнотизёра, где, как вы уже догадались, их… загипнотизируют. Каждому достаётся новая уникальная личность — например, Франкенштейн, снеговик или... морковка. А потом начинаются вопросы — и отвечать на них придётся так, как ответил бы ваш персонаж!",
+      "en": "HYPNOSIS, TEAMWORK AND HIDDEN IDENTITIES!!!\n\nIn Hypnotorious, players are attending a hypnotist’s show, where, as you might expect, they get hypnotized. Each player will take on a new, unique identity such as Frankenstein, a snowman or a carrot. They will then be asked to answer questions as their character would. ",
       "de": "HYPNOSE, TEAMWORK UND GEHEIME IDENTITÄTEN!!!\nIn Hypnotorious besuchen die Spieler eine Show eines Hypnotiseurs, bei der sie, wie man sich denken kann, hypnotisiert werden. Jeder Spieler nimmt eine neue, individuelle Identität an, wie Frankenstein, einen Schneemann oder eine Karotte. Dann sollen sie Fragen entsprechend ihrer Figur beantworten. ",
       "fr": "HYPNOSE, TRAVAIL D'ÉQUIPE ET IDENTITÉS SECRÈTES !!!\n\nDans Hypnotorious, les joueurs assistent à un spectacle d'hypnose où, comme vous l'avez deviné, ils se font hypnotiser. Les joueurs auront chacun une nouvelle identité, comme Frankenstein, un bonhomme de neige ou une carotte. Ils devront ensuite répondre à des questions dans la peau de leur personnage. ",
       "it": "IPNOSI, GIOCO DI SQUADRA E IDENTITÀ NASCOSTE!!!\n\nIn Hypnotorious, i giocatori partecipano allo spettacolo di un ipnotizzatore in cui, come puoi aspettarti, vengono ipnotizzati. Ogni giocare avrà una nuova, unica identità come Frankenstein, un pupazzo di neve o una carota. Verrà chiesto loro di rispondere a delle domande come farebbe il proprio personaggio. ",
@@ -2456,6 +2458,7 @@
     "maxPlayerCount": 8,
     "languages": [
       "de",
+      "en",
       "fr",
       "it",
       "es",
@@ -2510,6 +2513,7 @@
     "maxPlayerCount": 8,
     "languages": [
       "de",
+      "en",
       "fr",
       "it",
       "es",
@@ -2565,6 +2569,7 @@
     "maxPlayerCount": 8,
     "languages": [
       "de",
+      "en",
       "fr",
       "it",
       "es",
@@ -2618,6 +2623,7 @@
     "minPlayerCount": 3,
     "maxPlayerCount": 8,
     "languages": [
+      "en",
       "de",
       "es",
       "fr",
@@ -2648,12 +2654,12 @@
   },
   {
     "id": 54,
-    "title": "Рисовач 2",
+    "title": "Drawful 2",
     "products": [
       13
     ],
     "description": {
-      "en": "Рисовач возвращается, чтобы спасти вашу следующую вечеринку — встречайте Рисовач 2! Игрокам предстоит рисовать безумные задания на своих смартфонах и планшетах.",
+      "en": "Drawful is back to save your next party with Drawful 2, which challenges players to draw ridiculous prompts on their smartphones and tablets.",
       "de": "Drawful ist zurück, um deine nächste Party mit Drawful 2 zu retten, das Spieler herausfordert, lächerliche Anweisungen auf ihren Smartphones und Tablets zu zeichnen.",
       "fr": "Drawful est de retour pour sauver votre prochaine fête avec Drawful 2, qui met au défi les joueurs de dessiner des consignes ridicules sur leurs smartphones et tablettes.",
       "it": "Drawful est de retour pour sauver votre prochaine fête avec Drawful 2, qui met au défi les joueurs de dessiner des consignes ridicules sur leurs smartphones et tablettes.",
@@ -2712,6 +2718,7 @@
     "maxPlayerCount": 10,
     "languages": [
       "de",
+      "en",
       "fr",
       "it",
       "es",
@@ -2745,6 +2752,253 @@
       "30": {
         "path": "games/BigSurvey/BigSurvey.swf"
       }
+    }
+  },
+  {
+    "id": 57,
+    "title": "Doominate",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Take a perfectly lovely situation and destroy it in this head-to-head joke game where it feels so good to be so bad."
+    },
+    "duration": 20,
+    "minPlayerCount": 3,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#88cbf7",
+      "secondary": "#6d727e"
+    },
+    "types": [
+      "writing"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "fillInTheBlank",
+      "typing",
+      "voting",
+      "writing"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/YouRuinedIt/YouRuinedIt.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_doominate"
+    }
+  },
+  {
+    "id": 58,
+    "title": "Legends of Trivia",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Assemble your team and put your trivia knowledge to the test in a fantastical world full of danger! Teamwork! Monsters! Do you dare take on one of the most challenging trivia games yet?"
+    },
+    "duration": 20,
+    "minPlayerCount": 1,
+    "maxPlayerCount": 6,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#172c38",
+      "secondary": "#f8a62a"
+    },
+    "types": [
+      "trivia"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "singlePlayer",
+      "subtitles",
+      "teamWork",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "trivia"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/TriviaRPG/TriviaRPG.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_legends_of_trivia"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Hear Say",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Record sound effects and dialogue directly from your phone in a foley-inspired game where laughter is the soundtrack. Then, watch your voices come to life in a series of short movie clips!"
+    },
+    "duration": 15,
+    "minPlayerCount": 2,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#001a3b",
+      "secondary": "#b5ff67"
+    },
+    "types": [
+      "sound",
+      "speaking"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "speaking",
+      "voting"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/MicGame/MicGame.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_hear_say"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Cookie Haus",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "Play our coziest and kookiest drawing game yet by fulfilling cookie design orders for unusual clientele. Don’t play on an empty stomach!"
+    },
+    "duration": 20,
+    "minPlayerCount": 3,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#38aece",
+      "secondary": "#ca0229"
+    },
+    "types": [
+      "drawing",
+      "writing"
+    ],
+    "features": [
+      "audience",
+      "customMerch",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "art",
+      "fillInTheBlank",
+      "typing",
+      "visual",
+      "voting",
+      "writing"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/CookiesGame/CookiesGame.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_cookie_haus"
+    }
+  },
+  {
+    "id": 61,
+    "title": "Suspectives",
+    "products": [
+      31
+    ],
+    "description": {
+      "en": "There’s been a crime, one player secretly did it, and the evidence comes from your own survey answers! Study the clues, defend your innocence (even if you’re lying), and put your friends on trial."
+    },
+    "duration": 15,
+    "minPlayerCount": 4,
+    "maxPlayerCount": 8,
+    "languages": [
+      "en"
+    ],
+    "colors": {
+      "primary": "#467081",
+      "secondary": "#ffca50"
+    },
+    "types": [
+      "deception",
+      "rolePlay"
+    ],
+    "features": [
+      "audience",
+      "familyFriendly",
+      "kicking",
+      "moderation",
+      "passwords",
+      "reducedMotion",
+      "shareables",
+      "subtitles",
+      "usCentric"
+    ],
+    "personas": [],
+    "tags": [
+      "deception",
+      "fillInTheBlank",
+      "mystery",
+      "voting"
+    ],
+    "launchInfo": {
+      "31": {
+        "path": "games/DirtyDetectives/DirtyDetectives.swf"
+      }
+    },
+    "zendeskId": {
+      "31": "game_suspectives"
     }
   }
 ]
