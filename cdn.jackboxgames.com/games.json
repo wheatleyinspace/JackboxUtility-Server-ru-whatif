@@ -2749,12 +2749,12 @@
   },
   {
     "id": 57,
-    "title": "Doominate",
+    "title": "Громинант",
     "products": [
       31
     ],
     "description": {
-      "en": "Take a perfectly lovely situation and destroy it in this head-to-head joke game where it feels so good to be so bad."
+      "en": "Возьми идеально прекрасную ситуацию — и разнеси её в пух и прах в этой игре шуток один на один, где быть плохим — это чертовски приятно.Возьми идеально прекрасную ситуацию — и разнеси её в пух и прах в этой игре шуток один на один, где быть плохим — это чертовски приятно."
     },
     "duration": 20,
     "minPlayerCount": 3,
@@ -2845,12 +2845,12 @@
   },
   {
     "id": 59,
-    "title": "Hear Say",
+    "title": "Звук Вслух",
     "products": [
       31
     ],
     "description": {
-      "en": "Record sound effects and dialogue directly from your phone in a foley-inspired game where laughter is the soundtrack. Then, watch your voices come to life in a series of short movie clips!"
+      "en": "Записывай звуковые эффекты и диалоги прямо на телефон в игре, где ты сам создаешь шум и звуки, а фоном звучит только смех. А потом смотри, как твой голос оживляет короткие мультяшные сценки!"
     },
     "duration": 15,
     "minPlayerCount": 2,
@@ -2946,12 +2946,12 @@
   },
   {
     "id": 61,
-    "title": "Suspectives",
+    "title": "Подозрективы",
     "products": [
       31
     ],
     "description": {
-      "en": "There’s been a crime, one player secretly did it, and the evidence comes from your own survey answers! Study the clues, defend your innocence (even if you’re lying), and put your friends on trial."
+      "en": "Произошло преступление, один игрок совершил его тайно, и улики взяты из ваших собственных ответов на опрос! Изучите улики, защищайте свою невиновность (даже если лжёте) и устройте суд над своими друзьями."
     },
     "duration": 15,
     "minPlayerCount": 4,
