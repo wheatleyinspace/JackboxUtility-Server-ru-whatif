@@ -56,7 +56,15 @@
       "size": "small",
       "url": "https://jbgm.es/3Gsy46j",
       "background": {
-        "url": "maaln.png"
+        "$url": {
+          "de": "pp12-megapicker.jpg",
+          "en": "pp12-megapicker.jpg",
+          "es-XL": "pp12-megapicker.jpg",
+          "es": "pp12-megapicker.jpg",
+          "fr": "pp12-megapicker.jpg",
+          "it": "pp12-megapicker.jpg",
+          "pt-BR": "pp12-megapicker.jpg"
+        }
       },
       "cta": {
         "$label": {
@@ -93,8 +101,15 @@
       "kind": "hero",
       "size": "small",
       "background": {
-        "url": "tmp.jpg"
-      },
+        "$url": {
+          "de": "maaln.png",
+          "en": "maaln.png",
+          "es-XL": "maaln.png",
+          "es": "maaln.png",
+          "fr": "maaln.png",
+          "it": "maaln.png",
+          "pt-BR": "maaln.png"
+        }
       "cta": {
         "$label": {
           "de": "Auf die Wunschliste",
