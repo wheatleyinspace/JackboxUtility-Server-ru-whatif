@@ -67,6 +67,7 @@
         }
       },
       "cta": {
+        "backgroundColor": "#ff6b55",
         "$label": {
           "de": "Auf die Wunschliste",
           "en": "В желаемое",
@@ -76,7 +77,7 @@
           "it": "Aggiungi adesso alla lista dei desideri",
           "pt-BR": "Coloque já na lista de desejos"
         },
-        "url": "https://jbgm.es/4cE7K6Z"
+        "url": "https://jbgm.es/4uwqKK9"
       }
     },
     {
@@ -109,6 +110,7 @@
           "fr": "maaln.png",
           "it": "maaln.png",
           "pt-BR": "maaln.png"
+          }
         },
       "cta": {
         "$label": {
@@ -120,9 +122,9 @@
           "it": "Aggiungi adesso alla lista dei desideri",
           "pt-BR": "Coloque já na lista de desejos"
         },
-        "url": "https://jbgm.es/40VEiT0"
+        "url": "https://jbgm.es/4cE7K6Z"
       }
-    }},
+    },
     {
       "kind": "games",
       "$title": "GAMES.ONE_PLAYER",
