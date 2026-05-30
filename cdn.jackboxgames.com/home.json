@@ -109,7 +109,7 @@
           "fr": "maaln.png",
           "it": "maaln.png",
           "pt-BR": "maaln.png"
-        }
+        },
       "cta": {
         "$label": {
           "de": "Auf die Wunschliste",
@@ -122,7 +122,7 @@
         },
         "url": "https://jbgm.es/40VEiT0"
       }
-    },
+    }},
     {
       "kind": "games",
       "$title": "GAMES.ONE_PLAYER",
