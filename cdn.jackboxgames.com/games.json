@@ -2893,12 +2893,12 @@
   },
   {
     "id": 60,
-    "title": "Cookie Haus",
+    "title": "Дом печений",
     "products": [
       31
     ],
     "description": {
-      "en": "Play our coziest and kookiest drawing game yet by fulfilling cookie design orders for unusual clientele. Don’t play on an empty stomach!"
+      "en": "Сыграйте в нашу самую уютную и запечённую игру на рисование: выполняйте заказы на дизайн печенья для самых необычных клиентов. Главное — не играйте на пустой желудок!"
     },
     "duration": 20,
     "minPlayerCount": 3,
